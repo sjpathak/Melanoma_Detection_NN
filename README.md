@@ -1,5 +1,5 @@
 # Project Name
-
+Melanoma Detection Assignment
 
 ## Table of Contents
 * [General Info](#general-information)
